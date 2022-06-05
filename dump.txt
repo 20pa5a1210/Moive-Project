@@ -1,0 +1,8 @@
+
+{
+    id:,
+    name:"",
+    desc:"",
+    poster:"./images/",
+    trailer:"window.open('');",
+},
